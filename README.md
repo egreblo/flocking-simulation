@@ -11,7 +11,7 @@
 
 ## 📸 Demo
 
-![Flocking Simulation Demo](flocking_demo.gif)
+![Flocking Simulation Demo](simulation.gif)
 
 ## 🎮 Features
 
