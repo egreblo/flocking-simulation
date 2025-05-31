@@ -24,6 +24,7 @@
 ## 🛠️ Controls
 
 - **R** to randomise boid positions
+- **S** to start the simulation
 - **left click** to make boids follow your mouse
 - **right click** to push boids away from the mouse 
 
