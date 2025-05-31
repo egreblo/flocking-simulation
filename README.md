@@ -9,6 +9,10 @@
   - **Cohesion**: move toward the average position of neighbors
 - 🌐 Built in Unity with C#
 
+## 📸 Demo
+
+![Flocking Simulation Demo](flocking_demo.gif)
+
 ## 🎮 Features
 
 - Real-time simulation of autonomous agents
