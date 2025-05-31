@@ -26,7 +26,10 @@
 ## 🚀 How to Run
 
 1. Download the project
-2. Open the .exe file
+2. Unzip the built files
+3. Download *unityplayer.dll* file using [this](https://iosninja.io/dll/download/unityplayer-dll) link
+4. Place the file into the folder
+5. Open the .exe file
 
 ## 📚 References
 
